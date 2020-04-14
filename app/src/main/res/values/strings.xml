@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trường đua kỳ thú</string>
+    <string name="dialogExplain">
+        - Ấn vào các Pet để xem thông tin chi tiết.\n
+        - Đoán đúng Pet về nhất, nhận gấp n lần tiền đã cược (n là chỉ số bonus hiển thị khi đặt cược. Ví dụ: x13 sẽ nhận được gấp 13 lần tiền đã đặt cược).\n
+        - Đoán đúng Pet về nhì, huề tiền, không nhận thêm được tiền cũng không bị trừ tiền.\n
+        - Đoán đúng Pet về ba, bị trừ một nửa số tiền đã cược.\n
+        - Các trường hợp còn lại sẽ mất đi số tiền đã đặt cược.
+    </string>
+</resources>

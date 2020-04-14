@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/drawable_pick_pet"
+    android:padding="8dp"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/tv_PetName"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Pet pet pet pet"
+        android:textStyle="bold"
+        android:textColor="@color/colorDialog_End"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:padding="8dp"
+        android:textSize="20sp"/>
+    <ImageView
+        android:id="@+id/iv_PetImage"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/pet"
+        android:layout_gravity="center"/>
+    <TextView
+        android:id="@+id/tv_PetBetCashed"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Bla bla bla bla bla bla bla bla bla bla bla bla"
+        android:textColor="@color/colorWhite"
+        android:layout_marginTop="5dp"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+    <TextView
+        android:id="@+id/tv_PetBonus"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Bla bla bla bla bla bla bla bla bla bla bla bla"
+        android:textColor="@color/colorWhite"
+        android:layout_marginTop="5dp"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
